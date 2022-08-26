@@ -45,7 +45,7 @@ Mide la separación de dos puntos.
 
 La cuadrancia se puede considerar como una distancia cuadrada, 
 
-$Q(A1,A2) (x2-x1)^2 + (y2-y1)^2$
+$$Q(A1,A2) (x2-x1)^2 + (y2-y1)^2$$
 
 La distancia es la raíz cuadrada de la cuadrancia.
 
@@ -56,7 +56,7 @@ https://youtu.be/PSFr6_EhchI
 
 Mide la separación de 2 líneas que se cruzan.
 
-$s(l1,l2)=Q(B,C)/Q(A,B) = Q/R$ 
+$$s(l1,l2)=Q(B,C)/Q(A,B) = Q/R$$ 
 
 A es el punto de intersección de ambas líneas, B es un punto arbitrario sobre una de las líneas l1  B A, y C Es el punto que se forma cuando se traza una línea perpendicular a la otra línea l2.
 s s(l1,l2) es independiente de cuál se escoja como primera línea, o de cuál sea el punto B sobre esa línea. El círculo se vuelve esencialmente irrelevante para la construcción de esta medida.
@@ -67,8 +67,9 @@ si dos líneas son perpendiculares. $a_1a_2-b_1b_2=0$
 
 
 
-$Q(A,B)=(b_1- 0)^2+(a_1-0)^2$ 
+$$Q(A,B)=(b_1- 0)^2+(a_1-0)^2$$ 
 
-$Q(A,B)=b_1^2+a_2^2$
+$$Q(A,B)=b_1^2+a_2^2$$
 
-$Q(A_1, A_2) = (X_2 - X_1)^2 + (Y_2 - y_1)^2$
+
+$$Q(A_1, A_2) = (X_2 - X_1)^2 + (Y_2 - y_1)^2$$
