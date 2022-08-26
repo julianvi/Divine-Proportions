@@ -69,4 +69,6 @@ si dos líneas son perpendiculares. $a_1a_2-b_1b_2=0$
 
 $Q(A,B)=(b_1- 0)^2+(a_1-0)^2$ 
 
-$Q(A,B)=b_1^2+a_2^2$$ 
+$Q(A,B)=b_1^2+a_2^2$
+
+$Q(A_1, A_2) = (X_2 - X_1)^2 + (Y_2 - y_1)^2$
